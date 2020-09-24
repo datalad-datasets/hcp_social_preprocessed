@@ -1,11 +1,36 @@
-# Get data from the Human Connectome Project Open Access dataset with DataLad
+# Get data from a subset (preprocessed social cognition task data) from the Human Connectome Project Open Access dataset with DataLad
 
 [![made-with-datalad](https://www.datalad.org/badges/made_with.svg)](https://datalad.org)
 
-This dataset enables data retrieval with DataLad (0.12.2 or later) from the
+This dataset enables data retrieval from a subset of the
 [HCP Open Access dataset](https://registry.opendata.aws/hcp-openaccess/) for users
 that accepted the WU-Minn HCP Consortium Open Access Data Use Terms and obtained
 valid AWS credentials via [db.humanconnectome.org](http://db.humanconnectome.org).
+
+
+## Preprocessed social cognition task data subset
+
+**Important**: For a DataLad dataset of the *full* HCP Open Access dataset, please go
+to
+[github.com/datalad-datasets/human-conntectome-project-openaccess](https://github.com/datalad-datasets/human-connectome-project-openaccess).
+
+This subset comprises the preprocessed working memory data files including
+motion regressors and EVs of each subject in the HCP Open Access dataset.
+Specifically, these files are
+
+```
+
+-<sub>/MNINonLinear/Results/tfMRI_SOCIAL_/EVs/.txt
+-<sub>/MNINonLinear/Results/tfMRI_SOCIAL_*/Movement_Regressors.txt
+-<sub>/MNINonLinear/Results/tfMRI_SOCIAL_*/tfMRI_SOCIAL_??.nii.gz
+-<sub>/MNINonLinear/Results/tfMRI_SOCIAL_*/tfMRI_SOCIAL_??_SBRef.nii.gz
+```
+
+The directory structure and the file names in this subset are kept identical to
+the full HCP dataset.
+
+The purpose of this dataset is to give easy access to a single dataset with the
+relevant data for the social cognition task data.
 
 ## Human Connectome Project
 
