@@ -226,6 +226,7 @@
 1600872962.702319378s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/rfMRI_REST2_RL/ReclassifyAsNoise.txt?versionId=zCeSn.kRypEEqiKKeaDs7XSf3KxlcQW0
 1645729502.675580779s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/rfMRI_REST2_RL/ReclassifyAsSignal.txt
 1600872963.014411805s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/rfMRI_REST2_RL/ReclassifyAsSignal.txt?versionId=N_3TZDxpseDKEsRP6aEa6z55MutfrvgR
+1645729503.94260511s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental_resp.txt
 1600872963.325721103s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental_resp.txt?versionId=2KvrRkTcoWLl78jnwBAmIw9GGOrHu4H0
 1600872963.64463196s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/tfMRI_SOCIAL_RL/EVs/mental_resp.txt?versionId=2dS.6UBsit7Pqgu2aRfx5IlWuq.G06zK
 1600872963.960773192s 1 :s3://hcp-openaccess/HCP_1200/131823/MNINonLinear/Results/tfMRI_WM_LR/EVs/0bk_nlr.txt?versionId=xed4DwQoRIty.JV7Jt4jDnUnBPWI1oOW
