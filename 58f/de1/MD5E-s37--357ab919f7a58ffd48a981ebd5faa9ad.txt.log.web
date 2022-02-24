@@ -539,6 +539,7 @@
 1600876722.899886125s 1 :s3://hcp-openaccess/HCP_1200/562345/MNINonLinear/Results/tfMRI_SOCIAL_RL/EVs/rnd.txt?versionId=EBS3WghCviVExDx6p8euOEYMZXJWcRN8
 1645720995.438325323s 1 :s3://hcp-openaccess/HCP_1200/569965/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental.txt
 1600874200.524463171s 1 :s3://hcp-openaccess/HCP_1200/569965/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental.txt?versionId=RfHdKEbPTs4xEl0agVh2OyOcQ1cPfr8V
+1645720996.718908872s 1 :s3://hcp-openaccess/HCP_1200/569965/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental_resp.txt
 1600874200.851630241s 1 :s3://hcp-openaccess/HCP_1200/569965/MNINonLinear/Results/tfMRI_SOCIAL_LR/EVs/mental_resp.txt?versionId=2Fd4TaCqGeVzdMQ4TTJwcj1LQlRlacSn
 1645689439.861753258s 1 :s3://hcp-openaccess/HCP_1200/571144/MNINonLinear/Results/tfMRI_SOCIAL_RL/EVs/other_resp.txt
 1600886018.305901775s 1 :s3://hcp-openaccess/HCP_1200/571144/MNINonLinear/Results/tfMRI_SOCIAL_RL/EVs/other_resp.txt?versionId=iJwNEe8pzf8gc34CYLda_dfkTOHV7tSc
